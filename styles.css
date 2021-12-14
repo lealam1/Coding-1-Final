@@ -1,0 +1,27 @@
+.img {
+    width: 100px;
+    height: 150px;
+    border: lavender;
+    border-width: 10px;
+}
+.p {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    color: rgb(190, 146, 161);
+}
+
+.h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(136, 133, 133);
+    font: bold;
+}
+
+.h2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: mediumpurple;
+}
+
+.h3 {
+    color: midnightblue;
+    font-family: 'Times New Roman', Times, serif;
+}
